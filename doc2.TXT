@@ -1,1 +1,2 @@
 Hello dok 2
+Line from user2
