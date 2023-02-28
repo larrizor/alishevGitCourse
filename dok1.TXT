@@ -1,2 +1,3 @@
 Hello dik 1
 New change
+Add good bye to doc1
